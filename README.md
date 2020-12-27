@@ -9,5 +9,5 @@ the brown frogs to Rocks 1, 2, and 3. Their movement is restricted. A frog can o
 jump forward, either hopping to a vacant rock one place ahead (cost =1) or leaping over
 its neighbor frog to a vacant rock two places ahead (cost = 2).
 
-Developing our search agent that takes a Search Problem and return its solution using A*
+Developing our search agent that takes a Search Problem and returns its solution using A*
 algorithm.
